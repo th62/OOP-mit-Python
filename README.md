@@ -17,8 +17,7 @@ Uebung zur OOP-Programmierung mit Python
     Implementieren Sie zwei Methoden, die jeweils das Alter des Passagiers neu setzen bzw. ausgeben.
     Im ersten Fall soll das neu zu setzende Alter der Methode als Parameter übergeben werden. Rufen Sie die Methoden auf.
 
-3.
-Betrachten Sie wieder die Klasse Passagier.
+3. Betrachten Sie wieder die Klasse Passagier.
 
     Ergänzen Sie die Passagier-Klasse um ein statisches Element, das die Passagieranzahl enthält, und sorgen Sie für die
     Aktualisierung der Passagieranzahl, wenn eine neue Instanz der Passagier-Klasse erzeugt oder gelöscht wird.
